@@ -1,6 +1,6 @@
 # Vruvian 🚀
 
-A sleek **React & Next.js landing page template** inspired by [Cruip](https://cruip.com).
+A sleek **React & Next.js landing page template** inspired by [Cruip Stellar]([https://cruip.com](https://cruip.com/demos/stellar/)).
 Responsive, fast ⚡️, SEO-friendly 🔍, and perfect for **startups & SaaS**!
 Build stunning websites with ease 🎨✨.
 
