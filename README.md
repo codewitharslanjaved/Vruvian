@@ -8,7 +8,7 @@ Build stunning websites with ease 🎨✨.
 
 ## 📸 Preview
 
-![Vruvian Preview]([https://github.com/codewitharslanjaved/Cyber2077Exchange/blob/main/Cyber%202077%20Exchange%20UI.png](https://github.com/codewitharslanjaved/Vruvian/blob/main/Vruvian%20Preview.png))
+![Vruvian Preview](https://github.com/codewitharslanjaved/Vruvian/blob/main/Vruvian%20Preview.png)
 
 ---
 
